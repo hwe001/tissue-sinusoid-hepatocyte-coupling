@@ -1,0 +1,14 @@
+{
+  "fields": [
+    "oxygen",
+    "APAP",
+    "NAPQI",
+    "H2O2",
+    "hepatocyte_function"
+  ],
+  "node_count": 281,
+  "sources": [
+    "direct_sbml_spatial_results.json",
+    "schmitmeier_spatial_results.json"
+  ]
+}
