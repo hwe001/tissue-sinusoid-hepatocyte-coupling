@@ -3,6 +3,11 @@
 A multiscale framework linking virtual liver tissue, sinusoidal transport and
 interchangeable hepatocyte SBML/CellML models.
 
+This repository is the companion repository for the associated Interface
+paper. It contains the code, generated geometry, manifests, figures and
+interactive viewers required to reproduce the computational demonstrations
+reported in the paper.
+
 ## Scientific aim
 
 The project separates spatial geometry, vascular transport and local cellular
@@ -16,11 +21,9 @@ coupling architecture, not the limits of the framework.
 ## Repository layout
 
 - `geometry/` — Voronoi tissue and OpenCMISS/FieldML exports
-- `models/` — source SBML/CellML models and provenance
-- `coupling/` — spatial mapping and transport code
+- `docs/` — coupling specification and manuscript material
 - `viewers/` — interactive 3-D visualizations
 - `figures/` — manuscript figure generation
-- `docs/` — coupling specification and manuscript material
 
 ## Status
 
@@ -29,6 +32,6 @@ calibration and structural validation.
 
 ## License and model provenance
 
-The framework code and generated examples will be released under an open-source
-license. Third-party SBML/CellML models remain subject to their original
-licenses and should be downloaded from their authoritative repositories.
+The repository code and generated examples are released under the MIT License.
+Any third-party SBML/CellML models, if used, remain subject to their original
+licenses and provenance requirements.
