@@ -1,0 +1,7 @@
+{
+  "format": "OpenCMISS EXNODE/EXELEM plus JSON topology",
+  "nodes": 4032,
+  "line_elements": 4096,
+  "source": "lobule_sinusoid_network.json",
+  "note": "Voronoi polyhedral faces remain in the source JSON; EXELEM exports the sinusoid graph as 1-D line elements."
+}

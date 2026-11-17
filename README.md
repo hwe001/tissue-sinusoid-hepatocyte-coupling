@@ -24,6 +24,7 @@ coupling architecture, not the limits of the framework.
 - `docs/` — coupling specification and manuscript material
 - `viewers/` — interactive 3-D visualizations
 - `figures/` — manuscript figure generation
+- `reconstruction/` — reference implementation of the exchange contract, solver, SBML/CellML adapters, results and revised figures (Figures 2–7) for the revised paper. This is a re-implementation written from the published Methods, not the code that produced the originally submitted results; see `reconstruction/README.md` and `reconstruction/code/DESIGN.md`. Code is MIT; results, figures and geometry are CC BY 4.0 (`reconstruction/LICENSE-DATA.md`). The `viewers/` and OpenCMISS exports above predate this and use the earlier 8-control-volume discretisation.
 
 ## Status
 

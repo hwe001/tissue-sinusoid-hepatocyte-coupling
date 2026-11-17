@@ -1,0 +1,4 @@
+[on] n_cv=8 done in 6 s
+[on] n_cv=16 done in 8 s
+[on] n_cv=32 done in 18 s
+[on] n_cv=64 done in 48 s

@@ -1,0 +1,7671 @@
+{
+  "description": "Virtual lobules with candidate portal triads and central veins",
+  "portal_sites": [
+    {
+      "id": 0,
+      "position": [
+        -1.75,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        1,
+        5,
+        64,
+        65
+      ]
+    },
+    {
+      "id": 1,
+      "position": [
+        -1.75,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        2,
+        6,
+        65,
+        66
+      ]
+    },
+    {
+      "id": 2,
+      "position": [
+        -1.75,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        3,
+        7,
+        66,
+        67
+      ]
+    },
+    {
+      "id": 3,
+      "position": [
+        -1.75,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        4,
+        5,
+        64,
+        68
+      ]
+    },
+    {
+      "id": 4,
+      "position": [
+        -1.75,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        5,
+        6,
+        65,
+        69
+      ]
+    },
+    {
+      "id": 5,
+      "position": [
+        -1.75,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        6,
+        7,
+        66,
+        70
+      ]
+    },
+    {
+      "id": 6,
+      "position": [
+        -1.75,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        5,
+        9,
+        68,
+        69
+      ]
+    },
+    {
+      "id": 7,
+      "position": [
+        -1.75,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        6,
+        10,
+        69,
+        70
+      ]
+    },
+    {
+      "id": 8,
+      "position": [
+        -1.75,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        7,
+        11,
+        70,
+        71
+      ]
+    },
+    {
+      "id": 9,
+      "position": [
+        -1.75,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        8,
+        9,
+        68,
+        72
+      ]
+    },
+    {
+      "id": 10,
+      "position": [
+        -1.75,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        9,
+        10,
+        69,
+        73
+      ]
+    },
+    {
+      "id": 11,
+      "position": [
+        -1.75,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        10,
+        11,
+        70,
+        74
+      ]
+    },
+    {
+      "id": 12,
+      "position": [
+        -1.75,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        9,
+        13,
+        72,
+        73
+      ]
+    },
+    {
+      "id": 13,
+      "position": [
+        -1.75,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        10,
+        14,
+        73,
+        74
+      ]
+    },
+    {
+      "id": 14,
+      "position": [
+        -1.75,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        11,
+        15,
+        74,
+        75
+      ]
+    },
+    {
+      "id": 15,
+      "position": [
+        -1.75,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        12,
+        13,
+        72,
+        76
+      ]
+    },
+    {
+      "id": 16,
+      "position": [
+        -1.75,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        13,
+        14,
+        73,
+        77
+      ]
+    },
+    {
+      "id": 17,
+      "position": [
+        -1.75,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        14,
+        15,
+        74,
+        78
+      ]
+    },
+    {
+      "id": 18,
+      "position": [
+        -1.5,
+        -1.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        1,
+        17,
+        64,
+        65
+      ]
+    },
+    {
+      "id": 19,
+      "position": [
+        -1.5,
+        -1.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        2,
+        18,
+        65,
+        66
+      ]
+    },
+    {
+      "id": 20,
+      "position": [
+        -1.5,
+        -1.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        3,
+        19,
+        66,
+        67
+      ]
+    },
+    {
+      "id": 21,
+      "position": [
+        -1.5,
+        -1.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        5,
+        21,
+        64,
+        65
+      ]
+    },
+    {
+      "id": 22,
+      "position": [
+        -1.5,
+        -1.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        6,
+        22,
+        65,
+        66
+      ]
+    },
+    {
+      "id": 23,
+      "position": [
+        -1.5,
+        -1.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        7,
+        23,
+        66,
+        67
+      ]
+    },
+    {
+      "id": 24,
+      "position": [
+        -1.5,
+        -1.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        4,
+        20,
+        64,
+        68
+      ]
+    },
+    {
+      "id": 25,
+      "position": [
+        -1.5,
+        -1.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        5,
+        21,
+        64,
+        68
+      ]
+    },
+    {
+      "id": 26,
+      "position": [
+        -1.5,
+        -1.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        5,
+        21,
+        65,
+        69
+      ]
+    },
+    {
+      "id": 27,
+      "position": [
+        -1.5,
+        -1.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        6,
+        22,
+        65,
+        69
+      ]
+    },
+    {
+      "id": 28,
+      "position": [
+        -1.5,
+        -1.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        6,
+        22,
+        66,
+        70
+      ]
+    },
+    {
+      "id": 29,
+      "position": [
+        -1.5,
+        -1.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        7,
+        23,
+        66,
+        70
+      ]
+    },
+    {
+      "id": 30,
+      "position": [
+        -1.5,
+        -1.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        7,
+        23,
+        67,
+        71
+      ]
+    },
+    {
+      "id": 31,
+      "position": [
+        -1.5,
+        -0.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        5,
+        21,
+        68,
+        69
+      ]
+    },
+    {
+      "id": 32,
+      "position": [
+        -1.5,
+        -0.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        6,
+        22,
+        69,
+        70
+      ]
+    },
+    {
+      "id": 33,
+      "position": [
+        -1.5,
+        -0.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        7,
+        23,
+        70,
+        71
+      ]
+    },
+    {
+      "id": 34,
+      "position": [
+        -1.5,
+        -0.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        9,
+        25,
+        68,
+        69
+      ]
+    },
+    {
+      "id": 35,
+      "position": [
+        -1.5,
+        -0.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        10,
+        26,
+        69,
+        70
+      ]
+    },
+    {
+      "id": 36,
+      "position": [
+        -1.5,
+        -0.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        11,
+        27,
+        70,
+        71
+      ]
+    },
+    {
+      "id": 37,
+      "position": [
+        -1.5,
+        0.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        8,
+        24,
+        68,
+        72
+      ]
+    },
+    {
+      "id": 38,
+      "position": [
+        -1.5,
+        0.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        9,
+        25,
+        68,
+        72
+      ]
+    },
+    {
+      "id": 39,
+      "position": [
+        -1.5,
+        0.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        9,
+        25,
+        69,
+        73
+      ]
+    },
+    {
+      "id": 40,
+      "position": [
+        -1.5,
+        0.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        10,
+        26,
+        69,
+        73
+      ]
+    },
+    {
+      "id": 41,
+      "position": [
+        -1.5,
+        0.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        10,
+        26,
+        70,
+        74
+      ]
+    },
+    {
+      "id": 42,
+      "position": [
+        -1.5,
+        0.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        11,
+        27,
+        70,
+        74
+      ]
+    },
+    {
+      "id": 43,
+      "position": [
+        -1.5,
+        0.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        11,
+        27,
+        71,
+        75
+      ]
+    },
+    {
+      "id": 44,
+      "position": [
+        -1.5,
+        0.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        9,
+        25,
+        72,
+        73
+      ]
+    },
+    {
+      "id": 45,
+      "position": [
+        -1.5,
+        0.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        10,
+        26,
+        73,
+        74
+      ]
+    },
+    {
+      "id": 46,
+      "position": [
+        -1.5,
+        0.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        11,
+        27,
+        74,
+        75
+      ]
+    },
+    {
+      "id": 47,
+      "position": [
+        -1.5,
+        0.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        13,
+        29,
+        72,
+        73
+      ]
+    },
+    {
+      "id": 48,
+      "position": [
+        -1.5,
+        0.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        14,
+        30,
+        73,
+        74
+      ]
+    },
+    {
+      "id": 49,
+      "position": [
+        -1.5,
+        0.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        15,
+        31,
+        74,
+        75
+      ]
+    },
+    {
+      "id": 50,
+      "position": [
+        -1.5,
+        1.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        12,
+        28,
+        72,
+        76
+      ]
+    },
+    {
+      "id": 51,
+      "position": [
+        -1.5,
+        1.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        13,
+        29,
+        72,
+        76
+      ]
+    },
+    {
+      "id": 52,
+      "position": [
+        -1.5,
+        1.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        13,
+        29,
+        73,
+        77
+      ]
+    },
+    {
+      "id": 53,
+      "position": [
+        -1.5,
+        1.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        14,
+        30,
+        73,
+        77
+      ]
+    },
+    {
+      "id": 54,
+      "position": [
+        -1.5,
+        1.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        14,
+        30,
+        74,
+        78
+      ]
+    },
+    {
+      "id": 55,
+      "position": [
+        -1.5,
+        1.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        15,
+        31,
+        74,
+        78
+      ]
+    },
+    {
+      "id": 56,
+      "position": [
+        -1.5,
+        1.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        15,
+        31,
+        75,
+        79
+      ]
+    },
+    {
+      "id": 57,
+      "position": [
+        -1.5,
+        1.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        13,
+        29,
+        76,
+        77
+      ]
+    },
+    {
+      "id": 58,
+      "position": [
+        -1.5,
+        1.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        14,
+        30,
+        77,
+        78
+      ]
+    },
+    {
+      "id": 59,
+      "position": [
+        -1.5,
+        1.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        15,
+        31,
+        78,
+        79
+      ]
+    },
+    {
+      "id": 60,
+      "position": [
+        -1.25,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        17,
+        21,
+        64,
+        65
+      ]
+    },
+    {
+      "id": 61,
+      "position": [
+        -1.25,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        18,
+        22,
+        65,
+        66
+      ]
+    },
+    {
+      "id": 62,
+      "position": [
+        -1.25,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        19,
+        23,
+        66,
+        67
+      ]
+    },
+    {
+      "id": 63,
+      "position": [
+        -1.25,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        20,
+        21,
+        64,
+        68
+      ]
+    },
+    {
+      "id": 64,
+      "position": [
+        -1.25,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        22,
+        65,
+        69
+      ]
+    },
+    {
+      "id": 65,
+      "position": [
+        -1.25,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        23,
+        66,
+        70
+      ]
+    },
+    {
+      "id": 66,
+      "position": [
+        -1.25,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        25,
+        68,
+        69
+      ]
+    },
+    {
+      "id": 67,
+      "position": [
+        -1.25,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        26,
+        69,
+        70
+      ]
+    },
+    {
+      "id": 68,
+      "position": [
+        -1.25,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        27,
+        70,
+        71
+      ]
+    },
+    {
+      "id": 69,
+      "position": [
+        -1.25,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        24,
+        25,
+        68,
+        72
+      ]
+    },
+    {
+      "id": 70,
+      "position": [
+        -1.25,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        26,
+        69,
+        73
+      ]
+    },
+    {
+      "id": 71,
+      "position": [
+        -1.25,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        27,
+        70,
+        74
+      ]
+    },
+    {
+      "id": 72,
+      "position": [
+        -1.25,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        29,
+        72,
+        73
+      ]
+    },
+    {
+      "id": 73,
+      "position": [
+        -1.25,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        30,
+        73,
+        74
+      ]
+    },
+    {
+      "id": 74,
+      "position": [
+        -1.25,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        31,
+        74,
+        75
+      ]
+    },
+    {
+      "id": 75,
+      "position": [
+        -1.25,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        28,
+        29,
+        72,
+        76
+      ]
+    },
+    {
+      "id": 76,
+      "position": [
+        -1.25,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        30,
+        73,
+        77
+      ]
+    },
+    {
+      "id": 77,
+      "position": [
+        -1.25,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        31,
+        74,
+        78
+      ]
+    },
+    {
+      "id": 78,
+      "position": [
+        -1.0,
+        -1.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        16,
+        17,
+        64,
+        80
+      ]
+    },
+    {
+      "id": 79,
+      "position": [
+        -1.0,
+        -1.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        17,
+        18,
+        65,
+        81
+      ]
+    },
+    {
+      "id": 80,
+      "position": [
+        -1.0,
+        -1.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        18,
+        19,
+        66,
+        82
+      ]
+    },
+    {
+      "id": 81,
+      "position": [
+        -1.0,
+        -1.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        16,
+        20,
+        64,
+        80
+      ]
+    },
+    {
+      "id": 82,
+      "position": [
+        -1.0,
+        -1.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        17,
+        21,
+        64,
+        80
+      ]
+    },
+    {
+      "id": 83,
+      "position": [
+        -1.0,
+        -1.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        17,
+        21,
+        65,
+        81
+      ]
+    },
+    {
+      "id": 84,
+      "position": [
+        -1.0,
+        -1.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        18,
+        22,
+        65,
+        81
+      ]
+    },
+    {
+      "id": 85,
+      "position": [
+        -1.0,
+        -1.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        18,
+        22,
+        66,
+        82
+      ]
+    },
+    {
+      "id": 86,
+      "position": [
+        -1.0,
+        -1.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        19,
+        23,
+        66,
+        82
+      ]
+    },
+    {
+      "id": 87,
+      "position": [
+        -1.0,
+        -1.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        19,
+        23,
+        67,
+        83
+      ]
+    },
+    {
+      "id": 88,
+      "position": [
+        -1.0,
+        -1.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        20,
+        21,
+        64,
+        80
+      ]
+    },
+    {
+      "id": 89,
+      "position": [
+        -1.0,
+        -1.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        22,
+        65,
+        81
+      ]
+    },
+    {
+      "id": 90,
+      "position": [
+        -1.0,
+        -1.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        23,
+        66,
+        82
+      ]
+    },
+    {
+      "id": 91,
+      "position": [
+        -1.0,
+        -1.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        67,
+        71,
+        83,
+        87
+      ]
+    },
+    {
+      "id": 92,
+      "position": [
+        -1.0,
+        -1.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        67,
+        71,
+        83,
+        87
+      ]
+    },
+    {
+      "id": 93,
+      "position": [
+        -1.0,
+        -0.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        20,
+        21,
+        68,
+        84
+      ]
+    },
+    {
+      "id": 94,
+      "position": [
+        -1.0,
+        -0.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        22,
+        69,
+        85
+      ]
+    },
+    {
+      "id": 95,
+      "position": [
+        -1.0,
+        -0.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        23,
+        70,
+        86
+      ]
+    },
+    {
+      "id": 96,
+      "position": [
+        -1.0,
+        -0.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        20,
+        24,
+        68,
+        84
+      ]
+    },
+    {
+      "id": 97,
+      "position": [
+        -1.0,
+        -0.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        25,
+        68,
+        84
+      ]
+    },
+    {
+      "id": 98,
+      "position": [
+        -1.0,
+        -0.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        25,
+        69,
+        85
+      ]
+    },
+    {
+      "id": 99,
+      "position": [
+        -1.0,
+        -0.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        26,
+        69,
+        85
+      ]
+    },
+    {
+      "id": 100,
+      "position": [
+        -1.0,
+        -0.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        26,
+        70,
+        86
+      ]
+    },
+    {
+      "id": 101,
+      "position": [
+        -1.0,
+        -0.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        27,
+        70,
+        86
+      ]
+    },
+    {
+      "id": 102,
+      "position": [
+        -1.0,
+        -0.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        27,
+        71,
+        87
+      ]
+    },
+    {
+      "id": 103,
+      "position": [
+        -1.0,
+        -0.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        24,
+        25,
+        68,
+        84
+      ]
+    },
+    {
+      "id": 104,
+      "position": [
+        -1.0,
+        -0.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        26,
+        69,
+        85
+      ]
+    },
+    {
+      "id": 105,
+      "position": [
+        -1.0,
+        -0.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        27,
+        70,
+        86
+      ]
+    },
+    {
+      "id": 106,
+      "position": [
+        -1.0,
+        0.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        71,
+        75,
+        87,
+        91
+      ]
+    },
+    {
+      "id": 107,
+      "position": [
+        -1.0,
+        0.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        71,
+        75,
+        87,
+        91
+      ]
+    },
+    {
+      "id": 108,
+      "position": [
+        -1.0,
+        0.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        24,
+        25,
+        72,
+        88
+      ]
+    },
+    {
+      "id": 109,
+      "position": [
+        -1.0,
+        0.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        26,
+        73,
+        89
+      ]
+    },
+    {
+      "id": 110,
+      "position": [
+        -1.0,
+        0.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        27,
+        74,
+        90
+      ]
+    },
+    {
+      "id": 111,
+      "position": [
+        -1.0,
+        0.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        24,
+        28,
+        72,
+        88
+      ]
+    },
+    {
+      "id": 112,
+      "position": [
+        -1.0,
+        0.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        29,
+        72,
+        88
+      ]
+    },
+    {
+      "id": 113,
+      "position": [
+        -1.0,
+        0.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        29,
+        73,
+        89
+      ]
+    },
+    {
+      "id": 114,
+      "position": [
+        -1.0,
+        0.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        30,
+        73,
+        89
+      ]
+    },
+    {
+      "id": 115,
+      "position": [
+        -1.0,
+        0.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        30,
+        74,
+        90
+      ]
+    },
+    {
+      "id": 116,
+      "position": [
+        -1.0,
+        0.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        31,
+        74,
+        90
+      ]
+    },
+    {
+      "id": 117,
+      "position": [
+        -1.0,
+        0.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        31,
+        75,
+        91
+      ]
+    },
+    {
+      "id": 118,
+      "position": [
+        -1.0,
+        0.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        28,
+        29,
+        72,
+        88
+      ]
+    },
+    {
+      "id": 119,
+      "position": [
+        -1.0,
+        0.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        30,
+        73,
+        89
+      ]
+    },
+    {
+      "id": 120,
+      "position": [
+        -1.0,
+        0.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        31,
+        74,
+        90
+      ]
+    },
+    {
+      "id": 121,
+      "position": [
+        -1.0,
+        1.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        31,
+        75,
+        79,
+        91,
+        95
+      ]
+    },
+    {
+      "id": 122,
+      "position": [
+        -1.0,
+        1.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        75,
+        79,
+        91,
+        95
+      ]
+    },
+    {
+      "id": 123,
+      "position": [
+        -1.0,
+        1.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        28,
+        29,
+        76,
+        92
+      ]
+    },
+    {
+      "id": 124,
+      "position": [
+        -1.0,
+        1.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        30,
+        77,
+        93
+      ]
+    },
+    {
+      "id": 125,
+      "position": [
+        -1.0,
+        1.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        31,
+        78,
+        94
+      ]
+    },
+    {
+      "id": 126,
+      "position": [
+        -1.0,
+        1.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        76,
+        77,
+        92,
+        93
+      ]
+    },
+    {
+      "id": 127,
+      "position": [
+        -1.0,
+        1.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        77,
+        78,
+        93,
+        94
+      ]
+    },
+    {
+      "id": 128,
+      "position": [
+        -1.0,
+        1.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        31,
+        78,
+        79,
+        94,
+        95
+      ]
+    },
+    {
+      "id": 129,
+      "position": [
+        -1.0,
+        1.77,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        76,
+        77,
+        92,
+        93
+      ]
+    },
+    {
+      "id": 130,
+      "position": [
+        -1.0,
+        1.77,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        77,
+        78,
+        93,
+        94
+      ]
+    },
+    {
+      "id": 131,
+      "position": [
+        -1.0,
+        1.77,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        78,
+        79,
+        94,
+        95
+      ]
+    },
+    {
+      "id": 132,
+      "position": [
+        -0.75,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        17,
+        21,
+        80,
+        81
+      ]
+    },
+    {
+      "id": 133,
+      "position": [
+        -0.75,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        18,
+        22,
+        81,
+        82
+      ]
+    },
+    {
+      "id": 134,
+      "position": [
+        -0.75,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        19,
+        23,
+        82,
+        83
+      ]
+    },
+    {
+      "id": 135,
+      "position": [
+        -0.75,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        20,
+        21,
+        80,
+        84
+      ]
+    },
+    {
+      "id": 136,
+      "position": [
+        -0.75,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        22,
+        81,
+        85
+      ]
+    },
+    {
+      "id": 137,
+      "position": [
+        -0.75,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        23,
+        82,
+        86
+      ]
+    },
+    {
+      "id": 138,
+      "position": [
+        -0.75,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        25,
+        84,
+        85
+      ]
+    },
+    {
+      "id": 139,
+      "position": [
+        -0.75,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        26,
+        85,
+        86
+      ]
+    },
+    {
+      "id": 140,
+      "position": [
+        -0.75,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        27,
+        86,
+        87
+      ]
+    },
+    {
+      "id": 141,
+      "position": [
+        -0.75,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        24,
+        25,
+        84,
+        88
+      ]
+    },
+    {
+      "id": 142,
+      "position": [
+        -0.75,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        26,
+        85,
+        89
+      ]
+    },
+    {
+      "id": 143,
+      "position": [
+        -0.75,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        27,
+        86,
+        90
+      ]
+    },
+    {
+      "id": 144,
+      "position": [
+        -0.75,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        29,
+        88,
+        89
+      ]
+    },
+    {
+      "id": 145,
+      "position": [
+        -0.75,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        30,
+        89,
+        90
+      ]
+    },
+    {
+      "id": 146,
+      "position": [
+        -0.75,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        31,
+        90,
+        91
+      ]
+    },
+    {
+      "id": 147,
+      "position": [
+        -0.75,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        28,
+        29,
+        88,
+        92
+      ]
+    },
+    {
+      "id": 148,
+      "position": [
+        -0.75,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        30,
+        89,
+        93
+      ]
+    },
+    {
+      "id": 149,
+      "position": [
+        -0.75,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        31,
+        90,
+        94
+      ]
+    },
+    {
+      "id": 150,
+      "position": [
+        -0.5,
+        -1.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        17,
+        33,
+        80,
+        81
+      ]
+    },
+    {
+      "id": 151,
+      "position": [
+        -0.5,
+        -1.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        18,
+        34,
+        81,
+        82
+      ]
+    },
+    {
+      "id": 152,
+      "position": [
+        -0.5,
+        -1.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        19,
+        35,
+        82,
+        83
+      ]
+    },
+    {
+      "id": 153,
+      "position": [
+        -0.5,
+        -1.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        37,
+        80,
+        81
+      ]
+    },
+    {
+      "id": 154,
+      "position": [
+        -0.5,
+        -1.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        38,
+        81,
+        82
+      ]
+    },
+    {
+      "id": 155,
+      "position": [
+        -0.5,
+        -1.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        39,
+        82,
+        83
+      ]
+    },
+    {
+      "id": 156,
+      "position": [
+        -0.5,
+        -1.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        20,
+        36,
+        80,
+        84
+      ]
+    },
+    {
+      "id": 157,
+      "position": [
+        -0.5,
+        -1.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        37,
+        80,
+        84
+      ]
+    },
+    {
+      "id": 158,
+      "position": [
+        -0.5,
+        -1.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        37,
+        81,
+        85
+      ]
+    },
+    {
+      "id": 159,
+      "position": [
+        -0.5,
+        -1.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        38,
+        81,
+        85
+      ]
+    },
+    {
+      "id": 160,
+      "position": [
+        -0.5,
+        -1.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        38,
+        82,
+        86
+      ]
+    },
+    {
+      "id": 161,
+      "position": [
+        -0.5,
+        -1.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        39,
+        82,
+        86
+      ]
+    },
+    {
+      "id": 162,
+      "position": [
+        -0.5,
+        -1.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        39,
+        83,
+        87
+      ]
+    },
+    {
+      "id": 163,
+      "position": [
+        -0.5,
+        -0.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        21,
+        37,
+        84,
+        85
+      ]
+    },
+    {
+      "id": 164,
+      "position": [
+        -0.5,
+        -0.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        22,
+        38,
+        85,
+        86
+      ]
+    },
+    {
+      "id": 165,
+      "position": [
+        -0.5,
+        -0.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        23,
+        39,
+        86,
+        87
+      ]
+    },
+    {
+      "id": 166,
+      "position": [
+        -0.5,
+        -0.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        41,
+        84,
+        85
+      ]
+    },
+    {
+      "id": 167,
+      "position": [
+        -0.5,
+        -0.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        42,
+        85,
+        86
+      ]
+    },
+    {
+      "id": 168,
+      "position": [
+        -0.5,
+        -0.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        43,
+        86,
+        87
+      ]
+    },
+    {
+      "id": 169,
+      "position": [
+        -0.5,
+        0.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        24,
+        40,
+        84,
+        88
+      ]
+    },
+    {
+      "id": 170,
+      "position": [
+        -0.5,
+        0.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        41,
+        84,
+        88
+      ]
+    },
+    {
+      "id": 171,
+      "position": [
+        -0.5,
+        0.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        41,
+        85,
+        89
+      ]
+    },
+    {
+      "id": 172,
+      "position": [
+        -0.5,
+        0.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        42,
+        85,
+        89
+      ]
+    },
+    {
+      "id": 173,
+      "position": [
+        -0.5,
+        0.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        42,
+        86,
+        90
+      ]
+    },
+    {
+      "id": 174,
+      "position": [
+        -0.5,
+        0.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        43,
+        86,
+        90
+      ]
+    },
+    {
+      "id": 175,
+      "position": [
+        -0.5,
+        0.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        43,
+        87,
+        91
+      ]
+    },
+    {
+      "id": 176,
+      "position": [
+        -0.5,
+        0.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        25,
+        41,
+        88,
+        89
+      ]
+    },
+    {
+      "id": 177,
+      "position": [
+        -0.5,
+        0.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        26,
+        42,
+        89,
+        90
+      ]
+    },
+    {
+      "id": 178,
+      "position": [
+        -0.5,
+        0.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        27,
+        43,
+        90,
+        91
+      ]
+    },
+    {
+      "id": 179,
+      "position": [
+        -0.5,
+        0.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        45,
+        88,
+        89
+      ]
+    },
+    {
+      "id": 180,
+      "position": [
+        -0.5,
+        0.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        46,
+        89,
+        90
+      ]
+    },
+    {
+      "id": 181,
+      "position": [
+        -0.5,
+        0.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        31,
+        47,
+        90,
+        91
+      ]
+    },
+    {
+      "id": 182,
+      "position": [
+        -0.5,
+        1.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        28,
+        44,
+        88,
+        92
+      ]
+    },
+    {
+      "id": 183,
+      "position": [
+        -0.5,
+        1.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        45,
+        88,
+        92
+      ]
+    },
+    {
+      "id": 184,
+      "position": [
+        -0.5,
+        1.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        45,
+        89,
+        93
+      ]
+    },
+    {
+      "id": 185,
+      "position": [
+        -0.5,
+        1.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        46,
+        89,
+        93
+      ]
+    },
+    {
+      "id": 186,
+      "position": [
+        -0.5,
+        1.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        46,
+        90,
+        94
+      ]
+    },
+    {
+      "id": 187,
+      "position": [
+        -0.5,
+        1.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        31,
+        47,
+        90,
+        94
+      ]
+    },
+    {
+      "id": 188,
+      "position": [
+        -0.5,
+        1.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        31,
+        47,
+        91,
+        95
+      ]
+    },
+    {
+      "id": 189,
+      "position": [
+        -0.5,
+        1.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        29,
+        45,
+        92,
+        93
+      ]
+    },
+    {
+      "id": 190,
+      "position": [
+        -0.5,
+        1.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        30,
+        46,
+        93,
+        94
+      ]
+    },
+    {
+      "id": 191,
+      "position": [
+        -0.5,
+        1.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        31,
+        47,
+        94,
+        95
+      ]
+    },
+    {
+      "id": 192,
+      "position": [
+        -0.25,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        33,
+        37,
+        80,
+        81
+      ]
+    },
+    {
+      "id": 193,
+      "position": [
+        -0.25,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        34,
+        38,
+        81,
+        82
+      ]
+    },
+    {
+      "id": 194,
+      "position": [
+        -0.25,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        35,
+        39,
+        82,
+        83
+      ]
+    },
+    {
+      "id": 195,
+      "position": [
+        -0.25,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        36,
+        37,
+        80,
+        84
+      ]
+    },
+    {
+      "id": 196,
+      "position": [
+        -0.25,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        38,
+        81,
+        85
+      ]
+    },
+    {
+      "id": 197,
+      "position": [
+        -0.25,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        39,
+        82,
+        86
+      ]
+    },
+    {
+      "id": 198,
+      "position": [
+        -0.25,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        41,
+        84,
+        85
+      ]
+    },
+    {
+      "id": 199,
+      "position": [
+        -0.25,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        42,
+        85,
+        86
+      ]
+    },
+    {
+      "id": 200,
+      "position": [
+        -0.25,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        43,
+        86,
+        87
+      ]
+    },
+    {
+      "id": 201,
+      "position": [
+        -0.25,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        40,
+        41,
+        84,
+        88
+      ]
+    },
+    {
+      "id": 202,
+      "position": [
+        -0.25,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        42,
+        85,
+        89
+      ]
+    },
+    {
+      "id": 203,
+      "position": [
+        -0.25,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        43,
+        86,
+        90
+      ]
+    },
+    {
+      "id": 204,
+      "position": [
+        -0.25,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        45,
+        88,
+        89
+      ]
+    },
+    {
+      "id": 205,
+      "position": [
+        -0.25,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        46,
+        89,
+        90
+      ]
+    },
+    {
+      "id": 206,
+      "position": [
+        -0.25,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        47,
+        90,
+        91
+      ]
+    },
+    {
+      "id": 207,
+      "position": [
+        -0.25,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        44,
+        45,
+        88,
+        92
+      ]
+    },
+    {
+      "id": 208,
+      "position": [
+        -0.25,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        46,
+        89,
+        93
+      ]
+    },
+    {
+      "id": 209,
+      "position": [
+        -0.25,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        47,
+        90,
+        94
+      ]
+    },
+    {
+      "id": 210,
+      "position": [
+        0.0,
+        -1.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        32,
+        33,
+        80,
+        96
+      ]
+    },
+    {
+      "id": 211,
+      "position": [
+        0.0,
+        -1.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        33,
+        34,
+        81,
+        97
+      ]
+    },
+    {
+      "id": 212,
+      "position": [
+        0.0,
+        -1.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        34,
+        35,
+        82,
+        98
+      ]
+    },
+    {
+      "id": 213,
+      "position": [
+        0.0,
+        -1.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        32,
+        36,
+        80,
+        96
+      ]
+    },
+    {
+      "id": 214,
+      "position": [
+        0.0,
+        -1.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        33,
+        37,
+        80,
+        96
+      ]
+    },
+    {
+      "id": 215,
+      "position": [
+        0.0,
+        -1.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        33,
+        37,
+        81,
+        97
+      ]
+    },
+    {
+      "id": 216,
+      "position": [
+        0.0,
+        -1.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        34,
+        38,
+        81,
+        97
+      ]
+    },
+    {
+      "id": 217,
+      "position": [
+        0.0,
+        -1.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        34,
+        38,
+        82,
+        98
+      ]
+    },
+    {
+      "id": 218,
+      "position": [
+        0.0,
+        -1.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        35,
+        39,
+        82,
+        98
+      ]
+    },
+    {
+      "id": 219,
+      "position": [
+        0.0,
+        -1.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        35,
+        39,
+        83,
+        99
+      ]
+    },
+    {
+      "id": 220,
+      "position": [
+        0.0,
+        -1.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        36,
+        37,
+        80,
+        96
+      ]
+    },
+    {
+      "id": 221,
+      "position": [
+        0.0,
+        -1.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        38,
+        81,
+        97
+      ]
+    },
+    {
+      "id": 222,
+      "position": [
+        0.0,
+        -1.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        39,
+        82,
+        98
+      ]
+    },
+    {
+      "id": 223,
+      "position": [
+        0.0,
+        -1.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        83,
+        87,
+        99,
+        103
+      ]
+    },
+    {
+      "id": 224,
+      "position": [
+        0.0,
+        -1.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        83,
+        87,
+        99,
+        103
+      ]
+    },
+    {
+      "id": 225,
+      "position": [
+        0.0,
+        -0.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        36,
+        37,
+        84,
+        100
+      ]
+    },
+    {
+      "id": 226,
+      "position": [
+        0.0,
+        -0.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        38,
+        85,
+        101
+      ]
+    },
+    {
+      "id": 227,
+      "position": [
+        0.0,
+        -0.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        39,
+        86,
+        102
+      ]
+    },
+    {
+      "id": 228,
+      "position": [
+        0.0,
+        -0.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        36,
+        40,
+        84,
+        100
+      ]
+    },
+    {
+      "id": 229,
+      "position": [
+        0.0,
+        -0.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        41,
+        84,
+        100
+      ]
+    },
+    {
+      "id": 230,
+      "position": [
+        0.0,
+        -0.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        41,
+        85,
+        101
+      ]
+    },
+    {
+      "id": 231,
+      "position": [
+        0.0,
+        -0.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        42,
+        85,
+        101
+      ]
+    },
+    {
+      "id": 232,
+      "position": [
+        0.0,
+        -0.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        42,
+        86,
+        102
+      ]
+    },
+    {
+      "id": 233,
+      "position": [
+        0.0,
+        -0.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        43,
+        86,
+        102
+      ]
+    },
+    {
+      "id": 234,
+      "position": [
+        0.0,
+        -0.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        43,
+        87,
+        103
+      ]
+    },
+    {
+      "id": 235,
+      "position": [
+        0.0,
+        -0.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        40,
+        41,
+        84,
+        100
+      ]
+    },
+    {
+      "id": 236,
+      "position": [
+        0.0,
+        -0.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        42,
+        85,
+        101
+      ]
+    },
+    {
+      "id": 237,
+      "position": [
+        0.0,
+        -0.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        43,
+        86,
+        102
+      ]
+    },
+    {
+      "id": 238,
+      "position": [
+        0.0,
+        0.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        87,
+        91,
+        103,
+        107
+      ]
+    },
+    {
+      "id": 239,
+      "position": [
+        0.0,
+        0.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        87,
+        91,
+        103,
+        107
+      ]
+    },
+    {
+      "id": 240,
+      "position": [
+        0.0,
+        0.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        40,
+        41,
+        88,
+        104
+      ]
+    },
+    {
+      "id": 241,
+      "position": [
+        0.0,
+        0.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        42,
+        89,
+        105
+      ]
+    },
+    {
+      "id": 242,
+      "position": [
+        0.0,
+        0.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        43,
+        90,
+        106
+      ]
+    },
+    {
+      "id": 243,
+      "position": [
+        0.0,
+        0.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        40,
+        44,
+        88,
+        104
+      ]
+    },
+    {
+      "id": 244,
+      "position": [
+        0.0,
+        0.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        45,
+        88,
+        104
+      ]
+    },
+    {
+      "id": 245,
+      "position": [
+        0.0,
+        0.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        45,
+        89,
+        105
+      ]
+    },
+    {
+      "id": 246,
+      "position": [
+        0.0,
+        0.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        46,
+        89,
+        105
+      ]
+    },
+    {
+      "id": 247,
+      "position": [
+        0.0,
+        0.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        46,
+        90,
+        106
+      ]
+    },
+    {
+      "id": 248,
+      "position": [
+        0.0,
+        0.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        47,
+        90,
+        106
+      ]
+    },
+    {
+      "id": 249,
+      "position": [
+        0.0,
+        0.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        47,
+        91,
+        107
+      ]
+    },
+    {
+      "id": 250,
+      "position": [
+        0.0,
+        0.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        44,
+        45,
+        88,
+        104
+      ]
+    },
+    {
+      "id": 251,
+      "position": [
+        0.0,
+        0.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        46,
+        89,
+        105
+      ]
+    },
+    {
+      "id": 252,
+      "position": [
+        0.0,
+        0.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        47,
+        90,
+        106
+      ]
+    },
+    {
+      "id": 253,
+      "position": [
+        0.0,
+        1.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        47,
+        91,
+        95,
+        107,
+        111
+      ]
+    },
+    {
+      "id": 254,
+      "position": [
+        0.0,
+        1.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        91,
+        95,
+        107,
+        111
+      ]
+    },
+    {
+      "id": 255,
+      "position": [
+        0.0,
+        1.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        44,
+        45,
+        92,
+        108
+      ]
+    },
+    {
+      "id": 256,
+      "position": [
+        0.0,
+        1.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        46,
+        93,
+        109
+      ]
+    },
+    {
+      "id": 257,
+      "position": [
+        0.0,
+        1.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        47,
+        94,
+        110
+      ]
+    },
+    {
+      "id": 258,
+      "position": [
+        0.0,
+        1.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        92,
+        93,
+        108,
+        109
+      ]
+    },
+    {
+      "id": 259,
+      "position": [
+        0.0,
+        1.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        93,
+        94,
+        109,
+        110
+      ]
+    },
+    {
+      "id": 260,
+      "position": [
+        0.0,
+        1.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        47,
+        94,
+        95,
+        110,
+        111
+      ]
+    },
+    {
+      "id": 261,
+      "position": [
+        0.0,
+        1.77,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        92,
+        93,
+        108,
+        109
+      ]
+    },
+    {
+      "id": 262,
+      "position": [
+        0.0,
+        1.77,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        93,
+        94,
+        109,
+        110
+      ]
+    },
+    {
+      "id": 263,
+      "position": [
+        0.0,
+        1.77,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        94,
+        95,
+        110,
+        111
+      ]
+    },
+    {
+      "id": 264,
+      "position": [
+        0.25,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        33,
+        37,
+        96,
+        97
+      ]
+    },
+    {
+      "id": 265,
+      "position": [
+        0.25,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        34,
+        38,
+        97,
+        98
+      ]
+    },
+    {
+      "id": 266,
+      "position": [
+        0.25,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        35,
+        39,
+        98,
+        99
+      ]
+    },
+    {
+      "id": 267,
+      "position": [
+        0.25,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        36,
+        37,
+        96,
+        100
+      ]
+    },
+    {
+      "id": 268,
+      "position": [
+        0.25,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        38,
+        97,
+        101
+      ]
+    },
+    {
+      "id": 269,
+      "position": [
+        0.25,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        39,
+        98,
+        102
+      ]
+    },
+    {
+      "id": 270,
+      "position": [
+        0.25,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        41,
+        100,
+        101
+      ]
+    },
+    {
+      "id": 271,
+      "position": [
+        0.25,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        42,
+        101,
+        102
+      ]
+    },
+    {
+      "id": 272,
+      "position": [
+        0.25,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        43,
+        102,
+        103
+      ]
+    },
+    {
+      "id": 273,
+      "position": [
+        0.25,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        40,
+        41,
+        100,
+        104
+      ]
+    },
+    {
+      "id": 274,
+      "position": [
+        0.25,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        42,
+        101,
+        105
+      ]
+    },
+    {
+      "id": 275,
+      "position": [
+        0.25,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        43,
+        102,
+        106
+      ]
+    },
+    {
+      "id": 276,
+      "position": [
+        0.25,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        45,
+        104,
+        105
+      ]
+    },
+    {
+      "id": 277,
+      "position": [
+        0.25,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        46,
+        105,
+        106
+      ]
+    },
+    {
+      "id": 278,
+      "position": [
+        0.25,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        47,
+        106,
+        107
+      ]
+    },
+    {
+      "id": 279,
+      "position": [
+        0.25,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        44,
+        45,
+        104,
+        108
+      ]
+    },
+    {
+      "id": 280,
+      "position": [
+        0.25,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        46,
+        105,
+        109
+      ]
+    },
+    {
+      "id": 281,
+      "position": [
+        0.25,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        47,
+        106,
+        110
+      ]
+    },
+    {
+      "id": 282,
+      "position": [
+        0.5,
+        -1.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        33,
+        49,
+        96,
+        97
+      ]
+    },
+    {
+      "id": 283,
+      "position": [
+        0.5,
+        -1.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        34,
+        50,
+        97,
+        98
+      ]
+    },
+    {
+      "id": 284,
+      "position": [
+        0.5,
+        -1.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        35,
+        51,
+        98,
+        99
+      ]
+    },
+    {
+      "id": 285,
+      "position": [
+        0.5,
+        -1.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        53,
+        96,
+        97
+      ]
+    },
+    {
+      "id": 286,
+      "position": [
+        0.5,
+        -1.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        54,
+        97,
+        98
+      ]
+    },
+    {
+      "id": 287,
+      "position": [
+        0.5,
+        -1.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        55,
+        98,
+        99
+      ]
+    },
+    {
+      "id": 288,
+      "position": [
+        0.5,
+        -1.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        36,
+        52,
+        96,
+        100
+      ]
+    },
+    {
+      "id": 289,
+      "position": [
+        0.5,
+        -1.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        53,
+        96,
+        100
+      ]
+    },
+    {
+      "id": 290,
+      "position": [
+        0.5,
+        -1.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        53,
+        97,
+        101
+      ]
+    },
+    {
+      "id": 291,
+      "position": [
+        0.5,
+        -1.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        54,
+        97,
+        101
+      ]
+    },
+    {
+      "id": 292,
+      "position": [
+        0.5,
+        -1.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        54,
+        98,
+        102
+      ]
+    },
+    {
+      "id": 293,
+      "position": [
+        0.5,
+        -1.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        55,
+        98,
+        102
+      ]
+    },
+    {
+      "id": 294,
+      "position": [
+        0.5,
+        -1.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        55,
+        99,
+        103
+      ]
+    },
+    {
+      "id": 295,
+      "position": [
+        0.5,
+        -0.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        37,
+        53,
+        100,
+        101
+      ]
+    },
+    {
+      "id": 296,
+      "position": [
+        0.5,
+        -0.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        38,
+        54,
+        101,
+        102
+      ]
+    },
+    {
+      "id": 297,
+      "position": [
+        0.5,
+        -0.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        39,
+        55,
+        102,
+        103
+      ]
+    },
+    {
+      "id": 298,
+      "position": [
+        0.5,
+        -0.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        57,
+        100,
+        101
+      ]
+    },
+    {
+      "id": 299,
+      "position": [
+        0.5,
+        -0.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        58,
+        101,
+        102
+      ]
+    },
+    {
+      "id": 300,
+      "position": [
+        0.5,
+        -0.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        59,
+        102,
+        103
+      ]
+    },
+    {
+      "id": 301,
+      "position": [
+        0.5,
+        0.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        40,
+        56,
+        100,
+        104
+      ]
+    },
+    {
+      "id": 302,
+      "position": [
+        0.5,
+        0.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        57,
+        100,
+        104
+      ]
+    },
+    {
+      "id": 303,
+      "position": [
+        0.5,
+        0.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        57,
+        101,
+        105
+      ]
+    },
+    {
+      "id": 304,
+      "position": [
+        0.5,
+        0.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        58,
+        101,
+        105
+      ]
+    },
+    {
+      "id": 305,
+      "position": [
+        0.5,
+        0.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        58,
+        102,
+        106
+      ]
+    },
+    {
+      "id": 306,
+      "position": [
+        0.5,
+        0.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        59,
+        102,
+        106
+      ]
+    },
+    {
+      "id": 307,
+      "position": [
+        0.5,
+        0.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        59,
+        103,
+        107
+      ]
+    },
+    {
+      "id": 308,
+      "position": [
+        0.5,
+        0.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        41,
+        57,
+        104,
+        105
+      ]
+    },
+    {
+      "id": 309,
+      "position": [
+        0.5,
+        0.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        42,
+        58,
+        105,
+        106
+      ]
+    },
+    {
+      "id": 310,
+      "position": [
+        0.5,
+        0.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        43,
+        59,
+        106,
+        107
+      ]
+    },
+    {
+      "id": 311,
+      "position": [
+        0.5,
+        0.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        61,
+        104,
+        105
+      ]
+    },
+    {
+      "id": 312,
+      "position": [
+        0.5,
+        0.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        62,
+        105,
+        106
+      ]
+    },
+    {
+      "id": 313,
+      "position": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        47,
+        63,
+        106,
+        107
+      ]
+    },
+    {
+      "id": 314,
+      "position": [
+        0.5,
+        1.0,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        44,
+        60,
+        104,
+        108
+      ]
+    },
+    {
+      "id": 315,
+      "position": [
+        0.5,
+        1.0,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        61,
+        104,
+        108
+      ]
+    },
+    {
+      "id": 316,
+      "position": [
+        0.5,
+        1.0,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        61,
+        105,
+        109
+      ]
+    },
+    {
+      "id": 317,
+      "position": [
+        0.5,
+        1.0,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        62,
+        105,
+        109
+      ]
+    },
+    {
+      "id": 318,
+      "position": [
+        0.5,
+        1.0,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        62,
+        106,
+        110
+      ]
+    },
+    {
+      "id": 319,
+      "position": [
+        0.5,
+        1.0,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        47,
+        63,
+        106,
+        110
+      ]
+    },
+    {
+      "id": 320,
+      "position": [
+        0.5,
+        1.0,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        47,
+        63,
+        107,
+        111
+      ]
+    },
+    {
+      "id": 321,
+      "position": [
+        0.5,
+        1.25,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        45,
+        61,
+        108,
+        109
+      ]
+    },
+    {
+      "id": 322,
+      "position": [
+        0.5,
+        1.25,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        46,
+        62,
+        109,
+        110
+      ]
+    },
+    {
+      "id": 323,
+      "position": [
+        0.5,
+        1.25,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        47,
+        63,
+        110,
+        111
+      ]
+    },
+    {
+      "id": 324,
+      "position": [
+        0.75,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        49,
+        53,
+        96,
+        97
+      ]
+    },
+    {
+      "id": 325,
+      "position": [
+        0.75,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        50,
+        54,
+        97,
+        98
+      ]
+    },
+    {
+      "id": 326,
+      "position": [
+        0.75,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        51,
+        55,
+        98,
+        99
+      ]
+    },
+    {
+      "id": 327,
+      "position": [
+        0.75,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        52,
+        53,
+        96,
+        100
+      ]
+    },
+    {
+      "id": 328,
+      "position": [
+        0.75,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        54,
+        97,
+        101
+      ]
+    },
+    {
+      "id": 329,
+      "position": [
+        0.75,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        55,
+        98,
+        102
+      ]
+    },
+    {
+      "id": 330,
+      "position": [
+        0.75,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        57,
+        100,
+        101
+      ]
+    },
+    {
+      "id": 331,
+      "position": [
+        0.75,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        58,
+        101,
+        102
+      ]
+    },
+    {
+      "id": 332,
+      "position": [
+        0.75,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        55,
+        59,
+        102,
+        103
+      ]
+    },
+    {
+      "id": 333,
+      "position": [
+        0.75,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        56,
+        57,
+        100,
+        104
+      ]
+    },
+    {
+      "id": 334,
+      "position": [
+        0.75,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        58,
+        101,
+        105
+      ]
+    },
+    {
+      "id": 335,
+      "position": [
+        0.75,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        59,
+        102,
+        106
+      ]
+    },
+    {
+      "id": 336,
+      "position": [
+        0.75,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        61,
+        104,
+        105
+      ]
+    },
+    {
+      "id": 337,
+      "position": [
+        0.75,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        62,
+        105,
+        106
+      ]
+    },
+    {
+      "id": 338,
+      "position": [
+        0.75,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        59,
+        63,
+        106,
+        107
+      ]
+    },
+    {
+      "id": 339,
+      "position": [
+        0.75,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        60,
+        61,
+        104,
+        108
+      ]
+    },
+    {
+      "id": 340,
+      "position": [
+        0.75,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        61,
+        62,
+        105,
+        109
+      ]
+    },
+    {
+      "id": 341,
+      "position": [
+        0.75,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        62,
+        63,
+        106,
+        110
+      ]
+    },
+    {
+      "id": 342,
+      "position": [
+        1.0,
+        -1.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        48,
+        49,
+        96,
+        112
+      ]
+    },
+    {
+      "id": 343,
+      "position": [
+        1.0,
+        -1.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        49,
+        50,
+        97,
+        113
+      ]
+    },
+    {
+      "id": 344,
+      "position": [
+        1.0,
+        -1.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        50,
+        51,
+        98,
+        114
+      ]
+    },
+    {
+      "id": 345,
+      "position": [
+        1.0,
+        -1.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        48,
+        52,
+        96,
+        112
+      ]
+    },
+    {
+      "id": 346,
+      "position": [
+        1.0,
+        -1.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        49,
+        53,
+        96,
+        112
+      ]
+    },
+    {
+      "id": 347,
+      "position": [
+        1.0,
+        -1.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        49,
+        53,
+        97,
+        113
+      ]
+    },
+    {
+      "id": 348,
+      "position": [
+        1.0,
+        -1.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        50,
+        54,
+        97,
+        113
+      ]
+    },
+    {
+      "id": 349,
+      "position": [
+        1.0,
+        -1.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        50,
+        54,
+        98,
+        114
+      ]
+    },
+    {
+      "id": 350,
+      "position": [
+        1.0,
+        -1.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        51,
+        55,
+        98,
+        114
+      ]
+    },
+    {
+      "id": 351,
+      "position": [
+        1.0,
+        -1.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        51,
+        55,
+        99,
+        115
+      ]
+    },
+    {
+      "id": 352,
+      "position": [
+        1.0,
+        -1.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        52,
+        53,
+        96,
+        112
+      ]
+    },
+    {
+      "id": 353,
+      "position": [
+        1.0,
+        -1.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        54,
+        97,
+        113
+      ]
+    },
+    {
+      "id": 354,
+      "position": [
+        1.0,
+        -1.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        55,
+        98,
+        114
+      ]
+    },
+    {
+      "id": 355,
+      "position": [
+        1.0,
+        -1.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        55,
+        99,
+        103,
+        115,
+        119
+      ]
+    },
+    {
+      "id": 356,
+      "position": [
+        1.0,
+        -1.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        99,
+        103,
+        115,
+        119
+      ]
+    },
+    {
+      "id": 357,
+      "position": [
+        1.0,
+        -0.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        52,
+        53,
+        100,
+        116
+      ]
+    },
+    {
+      "id": 358,
+      "position": [
+        1.0,
+        -0.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        54,
+        101,
+        117
+      ]
+    },
+    {
+      "id": 359,
+      "position": [
+        1.0,
+        -0.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        55,
+        102,
+        118
+      ]
+    },
+    {
+      "id": 360,
+      "position": [
+        1.0,
+        -0.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        52,
+        56,
+        100,
+        116
+      ]
+    },
+    {
+      "id": 361,
+      "position": [
+        1.0,
+        -0.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        57,
+        100,
+        116
+      ]
+    },
+    {
+      "id": 362,
+      "position": [
+        1.0,
+        -0.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        57,
+        101,
+        117
+      ]
+    },
+    {
+      "id": 363,
+      "position": [
+        1.0,
+        -0.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        58,
+        101,
+        117
+      ]
+    },
+    {
+      "id": 364,
+      "position": [
+        1.0,
+        -0.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        58,
+        102,
+        118
+      ]
+    },
+    {
+      "id": 365,
+      "position": [
+        1.0,
+        -0.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        55,
+        59,
+        102,
+        118
+      ]
+    },
+    {
+      "id": 366,
+      "position": [
+        1.0,
+        -0.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        55,
+        59,
+        103,
+        119
+      ]
+    },
+    {
+      "id": 367,
+      "position": [
+        1.0,
+        -0.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        56,
+        57,
+        100,
+        116
+      ]
+    },
+    {
+      "id": 368,
+      "position": [
+        1.0,
+        -0.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        58,
+        101,
+        117
+      ]
+    },
+    {
+      "id": 369,
+      "position": [
+        1.0,
+        -0.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        59,
+        102,
+        118
+      ]
+    },
+    {
+      "id": 370,
+      "position": [
+        1.0,
+        0.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        59,
+        103,
+        107,
+        119,
+        123
+      ]
+    },
+    {
+      "id": 371,
+      "position": [
+        1.0,
+        0.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        103,
+        107,
+        119,
+        123
+      ]
+    },
+    {
+      "id": 372,
+      "position": [
+        1.0,
+        0.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        56,
+        57,
+        104,
+        120
+      ]
+    },
+    {
+      "id": 373,
+      "position": [
+        1.0,
+        0.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        58,
+        105,
+        121
+      ]
+    },
+    {
+      "id": 374,
+      "position": [
+        1.0,
+        0.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        59,
+        106,
+        122
+      ]
+    },
+    {
+      "id": 375,
+      "position": [
+        1.0,
+        0.5,
+        -1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        56,
+        60,
+        104,
+        120
+      ]
+    },
+    {
+      "id": 376,
+      "position": [
+        1.0,
+        0.5,
+        -1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        61,
+        104,
+        120
+      ]
+    },
+    {
+      "id": 377,
+      "position": [
+        1.0,
+        0.5,
+        -0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        61,
+        105,
+        121
+      ]
+    },
+    {
+      "id": 378,
+      "position": [
+        1.0,
+        0.5,
+        -0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        62,
+        105,
+        121
+      ]
+    },
+    {
+      "id": 379,
+      "position": [
+        1.0,
+        0.5,
+        0.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        62,
+        106,
+        122
+      ]
+    },
+    {
+      "id": 380,
+      "position": [
+        1.0,
+        0.5,
+        0.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        59,
+        63,
+        106,
+        122
+      ]
+    },
+    {
+      "id": 381,
+      "position": [
+        1.0,
+        0.5,
+        1.25
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        59,
+        63,
+        107,
+        123
+      ]
+    },
+    {
+      "id": 382,
+      "position": [
+        1.0,
+        0.75,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        60,
+        61,
+        104,
+        120
+      ]
+    },
+    {
+      "id": 383,
+      "position": [
+        1.0,
+        0.75,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        61,
+        62,
+        105,
+        121
+      ]
+    },
+    {
+      "id": 384,
+      "position": [
+        1.0,
+        0.75,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        62,
+        63,
+        106,
+        122
+      ]
+    },
+    {
+      "id": 385,
+      "position": [
+        1.0,
+        1.0,
+        1.75
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        63,
+        107,
+        111,
+        123,
+        127
+      ]
+    },
+    {
+      "id": 386,
+      "position": [
+        1.0,
+        1.0,
+        1.77
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        107,
+        111,
+        123,
+        127
+      ]
+    },
+    {
+      "id": 387,
+      "position": [
+        1.0,
+        1.25,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        60,
+        61,
+        108,
+        124
+      ]
+    },
+    {
+      "id": 388,
+      "position": [
+        1.0,
+        1.25,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        61,
+        62,
+        109,
+        125
+      ]
+    },
+    {
+      "id": 389,
+      "position": [
+        1.0,
+        1.25,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        62,
+        63,
+        110,
+        126
+      ]
+    },
+    {
+      "id": 390,
+      "position": [
+        1.0,
+        1.75,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        61,
+        108,
+        109,
+        124,
+        125
+      ]
+    },
+    {
+      "id": 391,
+      "position": [
+        1.0,
+        1.75,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        62,
+        109,
+        110,
+        125,
+        126
+      ]
+    },
+    {
+      "id": 392,
+      "position": [
+        1.0,
+        1.75,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        63,
+        110,
+        111,
+        126,
+        127
+      ]
+    },
+    {
+      "id": 393,
+      "position": [
+        1.0,
+        1.77,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        108,
+        109,
+        124,
+        125
+      ]
+    },
+    {
+      "id": 394,
+      "position": [
+        1.0,
+        1.77,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        109,
+        110,
+        125,
+        126
+      ]
+    },
+    {
+      "id": 395,
+      "position": [
+        1.0,
+        1.77,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        110,
+        111,
+        126,
+        127
+      ]
+    },
+    {
+      "id": 396,
+      "position": [
+        1.25,
+        -1.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        49,
+        53,
+        112,
+        113
+      ]
+    },
+    {
+      "id": 397,
+      "position": [
+        1.25,
+        -1.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        50,
+        54,
+        113,
+        114
+      ]
+    },
+    {
+      "id": 398,
+      "position": [
+        1.25,
+        -1.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        51,
+        55,
+        114,
+        115
+      ]
+    },
+    {
+      "id": 399,
+      "position": [
+        1.25,
+        -1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        52,
+        53,
+        112,
+        116
+      ]
+    },
+    {
+      "id": 400,
+      "position": [
+        1.25,
+        -1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        54,
+        113,
+        117
+      ]
+    },
+    {
+      "id": 401,
+      "position": [
+        1.25,
+        -1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        55,
+        114,
+        118
+      ]
+    },
+    {
+      "id": 402,
+      "position": [
+        1.25,
+        -0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        57,
+        116,
+        117
+      ]
+    },
+    {
+      "id": 403,
+      "position": [
+        1.25,
+        -0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        58,
+        117,
+        118
+      ]
+    },
+    {
+      "id": 404,
+      "position": [
+        1.25,
+        -0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        55,
+        59,
+        118,
+        119
+      ]
+    },
+    {
+      "id": 405,
+      "position": [
+        1.25,
+        0.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        56,
+        57,
+        116,
+        120
+      ]
+    },
+    {
+      "id": 406,
+      "position": [
+        1.25,
+        0.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        58,
+        117,
+        121
+      ]
+    },
+    {
+      "id": 407,
+      "position": [
+        1.25,
+        0.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        59,
+        118,
+        122
+      ]
+    },
+    {
+      "id": 408,
+      "position": [
+        1.25,
+        0.5,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        61,
+        120,
+        121
+      ]
+    },
+    {
+      "id": 409,
+      "position": [
+        1.25,
+        0.5,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        62,
+        121,
+        122
+      ]
+    },
+    {
+      "id": 410,
+      "position": [
+        1.25,
+        0.5,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        59,
+        63,
+        122,
+        123
+      ]
+    },
+    {
+      "id": 411,
+      "position": [
+        1.25,
+        1.0,
+        -1.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        60,
+        61,
+        120,
+        124
+      ]
+    },
+    {
+      "id": 412,
+      "position": [
+        1.25,
+        1.0,
+        -0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        61,
+        62,
+        121,
+        125
+      ]
+    },
+    {
+      "id": 413,
+      "position": [
+        1.25,
+        1.0,
+        0.5
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        62,
+        63,
+        122,
+        126
+      ]
+    },
+    {
+      "id": 414,
+      "position": [
+        1.75,
+        -1.0,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        53,
+        112,
+        113,
+        116,
+        117
+      ]
+    },
+    {
+      "id": 415,
+      "position": [
+        1.75,
+        -1.0,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        54,
+        113,
+        114,
+        117,
+        118
+      ]
+    },
+    {
+      "id": 416,
+      "position": [
+        1.75,
+        -1.0,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        55,
+        114,
+        115,
+        118,
+        119
+      ]
+    },
+    {
+      "id": 417,
+      "position": [
+        1.75,
+        0.0,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        57,
+        116,
+        117,
+        120,
+        121
+      ]
+    },
+    {
+      "id": 418,
+      "position": [
+        1.75,
+        0.0,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        58,
+        117,
+        118,
+        121,
+        122
+      ]
+    },
+    {
+      "id": 419,
+      "position": [
+        1.75,
+        0.0,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        59,
+        118,
+        119,
+        122,
+        123
+      ]
+    },
+    {
+      "id": 420,
+      "position": [
+        1.75,
+        1.0,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        61,
+        120,
+        121,
+        124,
+        125
+      ]
+    },
+    {
+      "id": 421,
+      "position": [
+        1.75,
+        1.0,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        62,
+        121,
+        122,
+        125,
+        126
+      ]
+    },
+    {
+      "id": 422,
+      "position": [
+        1.75,
+        1.0,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        63,
+        122,
+        123,
+        126,
+        127
+      ]
+    },
+    {
+      "id": 423,
+      "position": [
+        1.77,
+        -1.0,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        112,
+        113,
+        116,
+        117
+      ]
+    },
+    {
+      "id": 424,
+      "position": [
+        1.77,
+        -1.0,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        113,
+        114,
+        117,
+        118
+      ]
+    },
+    {
+      "id": 425,
+      "position": [
+        1.77,
+        -1.0,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        114,
+        115,
+        118,
+        119
+      ]
+    },
+    {
+      "id": 426,
+      "position": [
+        1.77,
+        0.0,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        116,
+        117,
+        120,
+        121
+      ]
+    },
+    {
+      "id": 427,
+      "position": [
+        1.77,
+        0.0,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        117,
+        118,
+        121,
+        122
+      ]
+    },
+    {
+      "id": 428,
+      "position": [
+        1.77,
+        0.0,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        118,
+        119,
+        122,
+        123
+      ]
+    },
+    {
+      "id": 429,
+      "position": [
+        1.77,
+        1.0,
+        -1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        120,
+        121,
+        124,
+        125
+      ]
+    },
+    {
+      "id": 430,
+      "position": [
+        1.77,
+        1.0,
+        0.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        121,
+        122,
+        125,
+        126
+      ]
+    },
+    {
+      "id": 431,
+      "position": [
+        1.77,
+        1.0,
+        1.0
+      ],
+      "candidate": true,
+      "incident_lobules": [
+        122,
+        123,
+        126,
+        127
+      ]
+    }
+  ],
+  "central_veins": [
+    {
+      "id": 0,
+      "position": [
+        -2.0,
+        -2.0,
+        -2.0
+      ],
+      "lobule_id": 0
+    },
+    {
+      "id": 1,
+      "position": [
+        -2.0,
+        -2.0,
+        -1.0
+      ],
+      "lobule_id": 1
+    },
+    {
+      "id": 2,
+      "position": [
+        -2.0,
+        -2.0,
+        0.0
+      ],
+      "lobule_id": 2
+    },
+    {
+      "id": 3,
+      "position": [
+        -2.0,
+        -2.0,
+        1.0
+      ],
+      "lobule_id": 3
+    },
+    {
+      "id": 4,
+      "position": [
+        -2.0,
+        -1.0,
+        -2.0
+      ],
+      "lobule_id": 4
+    },
+    {
+      "id": 5,
+      "position": [
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "lobule_id": 5
+    },
+    {
+      "id": 6,
+      "position": [
+        -2.0,
+        -1.0,
+        0.0
+      ],
+      "lobule_id": 6
+    },
+    {
+      "id": 7,
+      "position": [
+        -2.0,
+        -1.0,
+        1.0
+      ],
+      "lobule_id": 7
+    },
+    {
+      "id": 8,
+      "position": [
+        -2.0,
+        0.0,
+        -2.0
+      ],
+      "lobule_id": 8
+    },
+    {
+      "id": 9,
+      "position": [
+        -2.0,
+        0.0,
+        -1.0
+      ],
+      "lobule_id": 9
+    },
+    {
+      "id": 10,
+      "position": [
+        -2.0,
+        0.0,
+        0.0
+      ],
+      "lobule_id": 10
+    },
+    {
+      "id": 11,
+      "position": [
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "lobule_id": 11
+    },
+    {
+      "id": 12,
+      "position": [
+        -2.0,
+        1.0,
+        -2.0
+      ],
+      "lobule_id": 12
+    },
+    {
+      "id": 13,
+      "position": [
+        -2.0,
+        1.0,
+        -1.0
+      ],
+      "lobule_id": 13
+    },
+    {
+      "id": 14,
+      "position": [
+        -2.0,
+        1.0,
+        0.0
+      ],
+      "lobule_id": 14
+    },
+    {
+      "id": 15,
+      "position": [
+        -2.0,
+        1.0,
+        1.0
+      ],
+      "lobule_id": 15
+    },
+    {
+      "id": 16,
+      "position": [
+        -1.0,
+        -2.0,
+        -2.0
+      ],
+      "lobule_id": 16
+    },
+    {
+      "id": 17,
+      "position": [
+        -1.0,
+        -2.0,
+        -1.0
+      ],
+      "lobule_id": 17
+    },
+    {
+      "id": 18,
+      "position": [
+        -1.0,
+        -2.0,
+        0.0
+      ],
+      "lobule_id": 18
+    },
+    {
+      "id": 19,
+      "position": [
+        -1.0,
+        -2.0,
+        1.0
+      ],
+      "lobule_id": 19
+    },
+    {
+      "id": 20,
+      "position": [
+        -1.0,
+        -1.0,
+        -2.0
+      ],
+      "lobule_id": 20
+    },
+    {
+      "id": 21,
+      "position": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "lobule_id": 21
+    },
+    {
+      "id": 22,
+      "position": [
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "lobule_id": 22
+    },
+    {
+      "id": 23,
+      "position": [
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "lobule_id": 23
+    },
+    {
+      "id": 24,
+      "position": [
+        -1.0,
+        0.0,
+        -2.0
+      ],
+      "lobule_id": 24
+    },
+    {
+      "id": 25,
+      "position": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "lobule_id": 25
+    },
+    {
+      "id": 26,
+      "position": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "lobule_id": 26
+    },
+    {
+      "id": 27,
+      "position": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "lobule_id": 27
+    },
+    {
+      "id": 28,
+      "position": [
+        -1.0,
+        1.0,
+        -2.0
+      ],
+      "lobule_id": 28
+    },
+    {
+      "id": 29,
+      "position": [
+        -1.0,
+        1.0,
+        -1.0
+      ],
+      "lobule_id": 29
+    },
+    {
+      "id": 30,
+      "position": [
+        -1.0,
+        1.0,
+        0.0
+      ],
+      "lobule_id": 30
+    },
+    {
+      "id": 31,
+      "position": [
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "lobule_id": 31
+    },
+    {
+      "id": 32,
+      "position": [
+        0.0,
+        -2.0,
+        -2.0
+      ],
+      "lobule_id": 32
+    },
+    {
+      "id": 33,
+      "position": [
+        0.0,
+        -2.0,
+        -1.0
+      ],
+      "lobule_id": 33
+    },
+    {
+      "id": 34,
+      "position": [
+        0.0,
+        -2.0,
+        0.0
+      ],
+      "lobule_id": 34
+    },
+    {
+      "id": 35,
+      "position": [
+        0.0,
+        -2.0,
+        1.0
+      ],
+      "lobule_id": 35
+    },
+    {
+      "id": 36,
+      "position": [
+        0.0,
+        -1.0,
+        -2.0
+      ],
+      "lobule_id": 36
+    },
+    {
+      "id": 37,
+      "position": [
+        0.0,
+        -1.0,
+        -1.0
+      ],
+      "lobule_id": 37
+    },
+    {
+      "id": 38,
+      "position": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "lobule_id": 38
+    },
+    {
+      "id": 39,
+      "position": [
+        0.0,
+        -1.0,
+        1.0
+      ],
+      "lobule_id": 39
+    },
+    {
+      "id": 40,
+      "position": [
+        0.0,
+        0.0,
+        -2.0
+      ],
+      "lobule_id": 40
+    },
+    {
+      "id": 41,
+      "position": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "lobule_id": 41
+    },
+    {
+      "id": 42,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "lobule_id": 42
+    },
+    {
+      "id": 43,
+      "position": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "lobule_id": 43
+    },
+    {
+      "id": 44,
+      "position": [
+        0.0,
+        1.0,
+        -2.0
+      ],
+      "lobule_id": 44
+    },
+    {
+      "id": 45,
+      "position": [
+        0.0,
+        1.0,
+        -1.0
+      ],
+      "lobule_id": 45
+    },
+    {
+      "id": 46,
+      "position": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "lobule_id": 46
+    },
+    {
+      "id": 47,
+      "position": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "lobule_id": 47
+    },
+    {
+      "id": 48,
+      "position": [
+        1.0,
+        -2.0,
+        -2.0
+      ],
+      "lobule_id": 48
+    },
+    {
+      "id": 49,
+      "position": [
+        1.0,
+        -2.0,
+        -1.0
+      ],
+      "lobule_id": 49
+    },
+    {
+      "id": 50,
+      "position": [
+        1.0,
+        -2.0,
+        0.0
+      ],
+      "lobule_id": 50
+    },
+    {
+      "id": 51,
+      "position": [
+        1.0,
+        -2.0,
+        1.0
+      ],
+      "lobule_id": 51
+    },
+    {
+      "id": 52,
+      "position": [
+        1.0,
+        -1.0,
+        -2.0
+      ],
+      "lobule_id": 52
+    },
+    {
+      "id": 53,
+      "position": [
+        1.0,
+        -1.0,
+        -1.0
+      ],
+      "lobule_id": 53
+    },
+    {
+      "id": 54,
+      "position": [
+        1.0,
+        -1.0,
+        0.0
+      ],
+      "lobule_id": 54
+    },
+    {
+      "id": 55,
+      "position": [
+        1.0,
+        -1.0,
+        1.0
+      ],
+      "lobule_id": 55
+    },
+    {
+      "id": 56,
+      "position": [
+        1.0,
+        0.0,
+        -2.0
+      ],
+      "lobule_id": 56
+    },
+    {
+      "id": 57,
+      "position": [
+        1.0,
+        0.0,
+        -1.0
+      ],
+      "lobule_id": 57
+    },
+    {
+      "id": 58,
+      "position": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "lobule_id": 58
+    },
+    {
+      "id": 59,
+      "position": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "lobule_id": 59
+    },
+    {
+      "id": 60,
+      "position": [
+        1.0,
+        1.0,
+        -2.0
+      ],
+      "lobule_id": 60
+    },
+    {
+      "id": 61,
+      "position": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "lobule_id": 61
+    },
+    {
+      "id": 62,
+      "position": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "lobule_id": 62
+    },
+    {
+      "id": 63,
+      "position": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "lobule_id": 63
+    },
+    {
+      "id": 64,
+      "position": [
+        -1.5,
+        -1.5,
+        -1.5
+      ],
+      "lobule_id": 64
+    },
+    {
+      "id": 65,
+      "position": [
+        -1.5,
+        -1.5,
+        -0.5
+      ],
+      "lobule_id": 65
+    },
+    {
+      "id": 66,
+      "position": [
+        -1.5,
+        -1.5,
+        0.5
+      ],
+      "lobule_id": 66
+    },
+    {
+      "id": 67,
+      "position": [
+        -1.5,
+        -1.5,
+        1.5
+      ],
+      "lobule_id": 67
+    },
+    {
+      "id": 68,
+      "position": [
+        -1.5,
+        -0.5,
+        -1.5
+      ],
+      "lobule_id": 68
+    },
+    {
+      "id": 69,
+      "position": [
+        -1.5,
+        -0.5,
+        -0.5
+      ],
+      "lobule_id": 69
+    },
+    {
+      "id": 70,
+      "position": [
+        -1.5,
+        -0.5,
+        0.5
+      ],
+      "lobule_id": 70
+    },
+    {
+      "id": 71,
+      "position": [
+        -1.5,
+        -0.5,
+        1.5
+      ],
+      "lobule_id": 71
+    },
+    {
+      "id": 72,
+      "position": [
+        -1.5,
+        0.5,
+        -1.5
+      ],
+      "lobule_id": 72
+    },
+    {
+      "id": 73,
+      "position": [
+        -1.5,
+        0.5,
+        -0.5
+      ],
+      "lobule_id": 73
+    },
+    {
+      "id": 74,
+      "position": [
+        -1.5,
+        0.5,
+        0.5
+      ],
+      "lobule_id": 74
+    },
+    {
+      "id": 75,
+      "position": [
+        -1.5,
+        0.5,
+        1.5
+      ],
+      "lobule_id": 75
+    },
+    {
+      "id": 76,
+      "position": [
+        -1.5,
+        1.5,
+        -1.5
+      ],
+      "lobule_id": 76
+    },
+    {
+      "id": 77,
+      "position": [
+        -1.5,
+        1.5,
+        -0.5
+      ],
+      "lobule_id": 77
+    },
+    {
+      "id": 78,
+      "position": [
+        -1.5,
+        1.5,
+        0.5
+      ],
+      "lobule_id": 78
+    },
+    {
+      "id": 79,
+      "position": [
+        -1.5,
+        1.5,
+        1.5
+      ],
+      "lobule_id": 79
+    },
+    {
+      "id": 80,
+      "position": [
+        -0.5,
+        -1.5,
+        -1.5
+      ],
+      "lobule_id": 80
+    },
+    {
+      "id": 81,
+      "position": [
+        -0.5,
+        -1.5,
+        -0.5
+      ],
+      "lobule_id": 81
+    },
+    {
+      "id": 82,
+      "position": [
+        -0.5,
+        -1.5,
+        0.5
+      ],
+      "lobule_id": 82
+    },
+    {
+      "id": 83,
+      "position": [
+        -0.5,
+        -1.5,
+        1.5
+      ],
+      "lobule_id": 83
+    },
+    {
+      "id": 84,
+      "position": [
+        -0.5,
+        -0.5,
+        -1.5
+      ],
+      "lobule_id": 84
+    },
+    {
+      "id": 85,
+      "position": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "lobule_id": 85
+    },
+    {
+      "id": 86,
+      "position": [
+        -0.5,
+        -0.5,
+        0.5
+      ],
+      "lobule_id": 86
+    },
+    {
+      "id": 87,
+      "position": [
+        -0.5,
+        -0.5,
+        1.5
+      ],
+      "lobule_id": 87
+    },
+    {
+      "id": 88,
+      "position": [
+        -0.5,
+        0.5,
+        -1.5
+      ],
+      "lobule_id": 88
+    },
+    {
+      "id": 89,
+      "position": [
+        -0.5,
+        0.5,
+        -0.5
+      ],
+      "lobule_id": 89
+    },
+    {
+      "id": 90,
+      "position": [
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "lobule_id": 90
+    },
+    {
+      "id": 91,
+      "position": [
+        -0.5,
+        0.5,
+        1.5
+      ],
+      "lobule_id": 91
+    },
+    {
+      "id": 92,
+      "position": [
+        -0.5,
+        1.5,
+        -1.5
+      ],
+      "lobule_id": 92
+    },
+    {
+      "id": 93,
+      "position": [
+        -0.5,
+        1.5,
+        -0.5
+      ],
+      "lobule_id": 93
+    },
+    {
+      "id": 94,
+      "position": [
+        -0.5,
+        1.5,
+        0.5
+      ],
+      "lobule_id": 94
+    },
+    {
+      "id": 95,
+      "position": [
+        -0.5,
+        1.5,
+        1.5
+      ],
+      "lobule_id": 95
+    },
+    {
+      "id": 96,
+      "position": [
+        0.5,
+        -1.5,
+        -1.5
+      ],
+      "lobule_id": 96
+    },
+    {
+      "id": 97,
+      "position": [
+        0.5,
+        -1.5,
+        -0.5
+      ],
+      "lobule_id": 97
+    },
+    {
+      "id": 98,
+      "position": [
+        0.5,
+        -1.5,
+        0.5
+      ],
+      "lobule_id": 98
+    },
+    {
+      "id": 99,
+      "position": [
+        0.5,
+        -1.5,
+        1.5
+      ],
+      "lobule_id": 99
+    },
+    {
+      "id": 100,
+      "position": [
+        0.5,
+        -0.5,
+        -1.5
+      ],
+      "lobule_id": 100
+    },
+    {
+      "id": 101,
+      "position": [
+        0.5,
+        -0.5,
+        -0.5
+      ],
+      "lobule_id": 101
+    },
+    {
+      "id": 102,
+      "position": [
+        0.5,
+        -0.5,
+        0.5
+      ],
+      "lobule_id": 102
+    },
+    {
+      "id": 103,
+      "position": [
+        0.5,
+        -0.5,
+        1.5
+      ],
+      "lobule_id": 103
+    },
+    {
+      "id": 104,
+      "position": [
+        0.5,
+        0.5,
+        -1.5
+      ],
+      "lobule_id": 104
+    },
+    {
+      "id": 105,
+      "position": [
+        0.5,
+        0.5,
+        -0.5
+      ],
+      "lobule_id": 105
+    },
+    {
+      "id": 106,
+      "position": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "lobule_id": 106
+    },
+    {
+      "id": 107,
+      "position": [
+        0.5,
+        0.5,
+        1.5
+      ],
+      "lobule_id": 107
+    },
+    {
+      "id": 108,
+      "position": [
+        0.5,
+        1.5,
+        -1.5
+      ],
+      "lobule_id": 108
+    },
+    {
+      "id": 109,
+      "position": [
+        0.5,
+        1.5,
+        -0.5
+      ],
+      "lobule_id": 109
+    },
+    {
+      "id": 110,
+      "position": [
+        0.5,
+        1.5,
+        0.5
+      ],
+      "lobule_id": 110
+    },
+    {
+      "id": 111,
+      "position": [
+        0.5,
+        1.5,
+        1.5
+      ],
+      "lobule_id": 111
+    },
+    {
+      "id": 112,
+      "position": [
+        1.5,
+        -1.5,
+        -1.5
+      ],
+      "lobule_id": 112
+    },
+    {
+      "id": 113,
+      "position": [
+        1.5,
+        -1.5,
+        -0.5
+      ],
+      "lobule_id": 113
+    },
+    {
+      "id": 114,
+      "position": [
+        1.5,
+        -1.5,
+        0.5
+      ],
+      "lobule_id": 114
+    },
+    {
+      "id": 115,
+      "position": [
+        1.5,
+        -1.5,
+        1.5
+      ],
+      "lobule_id": 115
+    },
+    {
+      "id": 116,
+      "position": [
+        1.5,
+        -0.5,
+        -1.5
+      ],
+      "lobule_id": 116
+    },
+    {
+      "id": 117,
+      "position": [
+        1.5,
+        -0.5,
+        -0.5
+      ],
+      "lobule_id": 117
+    },
+    {
+      "id": 118,
+      "position": [
+        1.5,
+        -0.5,
+        0.5
+      ],
+      "lobule_id": 118
+    },
+    {
+      "id": 119,
+      "position": [
+        1.5,
+        -0.5,
+        1.5
+      ],
+      "lobule_id": 119
+    },
+    {
+      "id": 120,
+      "position": [
+        1.5,
+        0.5,
+        -1.5
+      ],
+      "lobule_id": 120
+    },
+    {
+      "id": 121,
+      "position": [
+        1.5,
+        0.5,
+        -0.5
+      ],
+      "lobule_id": 121
+    },
+    {
+      "id": 122,
+      "position": [
+        1.5,
+        0.5,
+        0.5
+      ],
+      "lobule_id": 122
+    },
+    {
+      "id": 123,
+      "position": [
+        1.5,
+        0.5,
+        1.5
+      ],
+      "lobule_id": 123
+    },
+    {
+      "id": 124,
+      "position": [
+        1.5,
+        1.5,
+        -1.5
+      ],
+      "lobule_id": 124
+    },
+    {
+      "id": 125,
+      "position": [
+        1.5,
+        1.5,
+        -0.5
+      ],
+      "lobule_id": 125
+    },
+    {
+      "id": 126,
+      "position": [
+        1.5,
+        1.5,
+        0.5
+      ],
+      "lobule_id": 126
+    },
+    {
+      "id": 127,
+      "position": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "lobule_id": 127
+    }
+  ],
+  "counts": {
+    "lobules": 128,
+    "portal_triad_candidates": 432,
+    "central_veins": 128
+  }
+}

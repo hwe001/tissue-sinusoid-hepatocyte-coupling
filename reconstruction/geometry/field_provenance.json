@@ -1,0 +1,19 @@
+{
+  "geometry": {
+    "source": "true_3d_voronoi.json",
+    "lobules": 128,
+    "portal_triad_candidates": 432,
+    "central_veins": 128,
+    "sinusoidal_paths": 512,
+    "axial_control_volumes_per_path": 16
+  },
+  "fields": [
+    {"name":"oxygen", "source_model":"sinusoidal transport", "status":"demonstrator", "units":"normalized model units"},
+    {"name":"APAP", "source_model":"BIOMD0000000624.xml", "language":"SBML", "status":"direct libRoadRunner execution", "units":"source-model units"},
+    {"name":"NAPQI", "source_model":"BIOMD0000000624.xml", "language":"SBML", "status":"direct libRoadRunner execution", "units":"source-model units"},
+    {"name":"H2O2", "source_model":"schmitmeier_2007.cellml", "language":"CellML 1.0", "status":"equation-faithful adapter", "units":"source-model units"},
+    {"name":"hepatocyte_function", "source_model":"schmitmeier_2007.cellml", "language":"CellML 1.0", "status":"equation-faithful adapter", "units":"source-model units"}
+  ],
+  "mapping": "local control-volume results averaged over sinusoidal paths and assigned to their parent Voronoi lobule",
+  "reproducibility": "regenerate with run_direct_sbml_spatial.py, run_schmitmeier_adapter.py and make_voronoi_field_viewer.py"
+}

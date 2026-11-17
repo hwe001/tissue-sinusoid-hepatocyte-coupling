@@ -1,0 +1,14 @@
+{
+  "cells": 128,
+  "volume_mean": 0.5198655937500001,
+  "volume_sd": 0.042626763925947934,
+  "volume_min": 0.3862205,
+  "volume_max": 0.6041833333333331,
+  "faces_mean": 31.0,
+  "faces_min": 16,
+  "faces_max": 44,
+  "vertices_mean": 17.5,
+  "portal_incidence_mean": 4.0625,
+  "portal_incidence_min": 4,
+  "portal_incidence_max": 5
+}
