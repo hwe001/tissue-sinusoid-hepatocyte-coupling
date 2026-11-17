@@ -35,5 +35,5 @@ Tested with Python 3.x on Windows 11 and the package versions in `requirements.t
 
 ## Licence and citation
 Code (`code/`): MIT, see `LICENSE`. Results, figures, geometry and documentation: CC BY 4.0, see `LICENSE-DATA.md`.
-<!-- AUTHOR: add Zenodo DOI. -->
+Archived release (version DOI): https://doi.org/10.5281/zenodo.24310704
 Third-party models keep their own licences (see `models/PROVENANCE.md`).
